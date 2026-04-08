@@ -1,4 +1,4 @@
-# DOSW_PARCIALT2_JuanCruz
+# DOSW_PARCIALT2_JuanCruz y DiegoMontes
 
 ### Diagrama de clases
 
